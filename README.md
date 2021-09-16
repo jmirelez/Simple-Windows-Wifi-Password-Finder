@@ -1,1 +1,1 @@
-# Simple-Windows-Wifi-Password-Finder
+# Simple Windows Wifi Password Finder
